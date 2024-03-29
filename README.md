@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXAxNGlzazRtNmh5cGdxcmZ1eHdkYTR2cjN6NHZ6aHVwN3c0cm4zNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" width="200" height="115"/>
   <div id="badges">
-    <a href="t.me/Stormblessed3D">
+    <a href="https://t.me/Stormblessed3D">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
     <a href="Alexander.A.Tsybulskiy@gmail.com">
