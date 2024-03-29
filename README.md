@@ -4,7 +4,7 @@
     <a href="https://t.me/Stormblessed3D">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
-    <a href="Alexander.A.Tsybulskiy@gmail.com">
+    <a href="mailto:Alexander.A.Tsybulskiy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
   </div>
